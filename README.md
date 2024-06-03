@@ -7,11 +7,11 @@
 Passionate about technology and innovation, I am a systems engineering student at UFMG, with an interest and experience in front-end development and UX/UI design. I always like to challenge myself with new endeavors. I have participated in the junior enterprise, extension projects, the student council, and even an exchange program to Germany.
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> What I have been doing
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> What I have been doing
 - 💼  Working as a Full Stack Developer at 5C Company 
 - 🎯  Improving my development skills at Alura
 
-### My skills
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> My skills
 #### Languages / Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,c,cs,cpp,dotnet,react,jquery,mysql)](https://skillicons.dev)
 
