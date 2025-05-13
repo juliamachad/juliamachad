@@ -8,7 +8,7 @@ Passionate about technology and innovation, I am a systems engineering student a
 ##
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> What I have been doing
-- 💼  Working as a Full Stack Developer at 5C Company 
+- 💼  Working as a Front-end Developer at Cheeeeese
 - 🎯  Improving my development skills at Alura
 ##
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> My skills
